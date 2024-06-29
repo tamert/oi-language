@@ -1,4 +1,4 @@
-lea# oi-language
+# oi-language
 
 Oi Dilinin Temel Özellikleri
 Yalın ve Anlaşılır Sözdizimi: Oi'nin sözdizimi, yeni başlayanlar için bile kolayca anlaşılabilir olacak.
