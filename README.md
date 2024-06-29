@@ -1,11 +1,16 @@
 # oi-language
 
-Oi Dilinin Temel Özellikleri
+## Oi Dilinin Temel Özellikleri
+
 Yalın ve Anlaşılır Sözdizimi: Oi'nin sözdizimi, yeni başlayanlar için bile kolayca anlaşılabilir olacak.
+
 Dinamik ve Statik Tip Desteği: Hem dinamik hem de statik tipleri destekleyecek.
+
 Kolay Fonksiyon Tanımlama: Fonksiyonlar basit ve net bir şekilde tanımlanacak.
+
 Modern Özellikler: Nesne yönelimli programlama, eşzamanlılık ve modüler yapı desteklenecek.
-Oi Sözdizimi
+
+## Oi Sözdizimi
 
 ## 1. Değişken Tanımlama ve Atama
 
